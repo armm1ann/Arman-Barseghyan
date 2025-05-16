@@ -17,3 +17,8 @@ Arman Barseghyan <br>Gmail: armanbar32081@gmail.com <br>Position: Junior Front-E
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<div align="center">
+  <img height="-1" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRnMG51aXQ5NzJhdXIybnNpazZrNDIxY3kwd2NjdncwNW9nc2Q3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
+</div>
+
