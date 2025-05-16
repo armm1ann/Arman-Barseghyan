@@ -13,7 +13,7 @@ Arman Barseghyan <br>Gmail: armanbar32081@gmail.com <br>Position: Junior Front-E
 ![](https://github-readme-stats.vercel.app/api?username=armm1ann &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=armm1ann &theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=armm1ann &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<div align="center">
+<div align="left">
   <img height="-1" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRnMG51aXQ5NzJhdXIybnNpazZrNDIxY3kwd2NjdncwNW9nc2Q3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 </div>
 
