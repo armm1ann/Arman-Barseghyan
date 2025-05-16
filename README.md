@@ -1,11 +1,7 @@
 # Arman-Barseghyan
 
 # 💫 About Me:
-Arman Barseghyan <br>Gmail: armanbar32081@gmail.com <br>Position: Junior Front-End Developer
-👋 Hi, I’m a Junior Frontend Developer.
-💻 I work with HTML, CSS, JavaScript, React, and Sass.
-🎯 I enjoy building responsive, user-friendly interfaces and constantly improving my skills.
-📚 Always learning and exploring new tools in web development.
+Arman Barseghyan <br>Gmail: armanbar32081@gmail.com <br>Position: Junior Front-End Developer<br>👋 Hi, I’m a Junior Frontend Developer.<br>💻 I work with HTML, CSS, JavaScript, React, and Sass.<br>🎯 I enjoy building responsive, user-friendly interfaces and constantly improving my skills.<br>📚 Always learning and exploring new tools in web development.
 
 
 ## 🌐 Socials:
